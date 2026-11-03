@@ -1,0 +1,47 @@
+[
+  {
+    "id": "parent-guide",
+    "file": "reframers-parent-guide.pdf",
+    "cover": "parent-guide-cover.jpg",
+    "number": "01",
+    "kind": "START HERE / PARENT GUIDE",
+    "title": "What else could be true?",
+    "desc": "Understand the idea behind the glasses, with everyday examples and words you can borrow when your child is having a difficult moment.",
+    "includes": [
+      "A simple introduction to Recognise. Reframe. Repeat.",
+      "Three everyday examples and gentle conversation starters",
+      "A five-minute way to practise together"
+    ],
+    "button": "Download the parent guide"
+  },
+  {
+    "id": "conversation-cards",
+    "file": "reframers-conversation-cards.pdf",
+    "cover": "conversation-cards-cover.jpg",
+    "number": "02",
+    "kind": "8 PRINTABLE CONVERSATION CARDS",
+    "title": "Little moments. New possibilities.",
+    "desc": "Explore friendships, mistakes, learning and changing plans with one curious question and a helpful next step.",
+    "includes": [
+      "Eight cards to cut out and keep",
+      "Possible views to explore together",
+      "A page for your own family moment"
+    ],
+    "button": "Download the conversation cards"
+  },
+  {
+    "id": "family-activity",
+    "file": "reframers-family-activity-pack.pdf",
+    "cover": "family-activity-cover.jpg",
+    "number": "03",
+    "kind": "MAKE + WONDER + PRACTISE",
+    "title": "Pop your Reframers on!",
+    "desc": "Make a glasses prop, explore a first thought and another view, then keep the curiosity going with five little family conversations.",
+    "includes": [
+      "A decorate-and-cut glasses template",
+      "A drawing and writing worksheet",
+      "Five short prompts to keep practising"
+    ],
+    "button": "Download the activity pack"
+  }
+]
